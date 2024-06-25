@@ -61,7 +61,7 @@ Setting OpenAI API Key
 #### Solution 3
 
 ```
-export OPENAI_API_KEY=sk-proj-zkmbQAHkUYodRgXAHI1pT3BlbkFJu6ZVbs92vlY9QKnmg6rv
+export OPENAI_API_KEY=<ENTER KEY  HERE>
 ```
 
 ## Approach 2
