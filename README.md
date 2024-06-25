@@ -9,8 +9,6 @@ The approach taken is iterative using the folowing steps:
 
 >A Jupyter Notebook Environment would dramatically help here.
 
-[toc]
-
 ## Approach 1
 Creating a domain-specific text analytics application with a natural language interface (NLU) as the user experience (UX).
 
