@@ -1,0 +1,1 @@
+Drop your favorite PDF files into this folder for processing.
